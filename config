@@ -194,7 +194,7 @@ mode "resize" {
 #Auth agent
 exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 #Bg
-exec_always feh --bg-fill /mnt/Home/home/11-9-Day.jpg
+exec_always feh --bg-fill /mnt/Home/home/11-1.jpg
 #Guake
 exec --no-startup-id guake
 #Language switch
